@@ -1,7 +1,6 @@
 # File based routing in React Native  
 
-Using Expo Router within a managed expo project or a bare React Native project, enables
-file based routing for the application. If you are familar with modern web meta frameworks such as NextJS or Nuxt,
+Using Expo Router within a managed expo project enables file based routing for the application. If you are familar with modern web meta frameworks such as NextJS or Nuxt,
 you will have experienced file based routing. However this is something novel for the mobile world, once you have installed and set up Expo Router this enables the developer to create a file inside of the app directory and this automatically creates a screen that is accessible without having to set up React Navigation manually. Expo Router is built on top of React Navigation so you still have access to familiar API's.
 
 ### Why this is cool  
